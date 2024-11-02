@@ -1,1 +1,1 @@
-# Efficient-Algorithm-Accelerator-Resources-
+# Efficient-Algorithm-Accelerator-Resources
