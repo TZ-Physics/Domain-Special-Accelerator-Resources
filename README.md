@@ -1,6 +1,6 @@
-# Efficient-Algorithm-Accelerator-Resources
+# Efficient-Domain-Soecial-Accelerator-Resources
 
-## Deep Learning Accelerator
+## Deep Learning
 
 ### ASIC
 
