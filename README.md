@@ -35,3 +35,22 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2024.
 *S Zeng, J Liu, G Dai, X Yang, T Fu, H Wang, W Ma, H Sun, S Li, Z Huang, Y Dai, J Li, Z Wang, et al.*<br>
 Proceedings of the 2015 ACM/SIGDA international symposium on field-programmable gate arrays, 2024.
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3626202.3637562)]
+
+## Finance
+
+**Deeplob: Deep convolutional neural networks for limit order books.**<br>
+*Z Zhang, S Zohren, S Roberts.*<br>
+IEEE Transactions on Signal Processing, 2019.
+[[Paper](https://arxiv.org/pdf/1808.03668)]
+
+**LightTrader: A standalone high-frequency trading system with deep learning inference accelerators and proactive scheduler.**<br>
+*S Yoo, H Kim, J Kim, S Park, JY Kim.*<br>
+2023 IEEE International Symposium on High-Performance Computer Architecture, 2023.
+[[Paper](https://rebellions.ai/wp-content/uploads/2023/11/RebellionsIONHPCA23_LightTrader.pdf)]
+
+**Cross-contextual Sequential Optimization via Deep Reinforcement Learning for Algorithmic Trading.**<br>
+*K Pan, Y Hu, L Han, H Sun, D Cheng, Y Liang.*<br>
+Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 2024.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3680101)]
+
+
